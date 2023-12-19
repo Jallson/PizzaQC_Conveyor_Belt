@@ -1,5 +1,8 @@
 # PizzaQC_Conveyor_Belt
 A computer vision system for quality/quantity inspection of product manufacturing on a conveyor belt.
+
+![Photo01.jpg](https://www.dropbox.com/scl/fi/rk91223j5w7g269lxc21w/Photo01.jpg?rlkey=13ku74tniydfos2uy3bgnxxnx&dl=0)
+
 ## Problem:
 The QC process if handled by human, especially involving visual based calculation and carried out repeatedly is time consume and prone to errors. Using sensors to calculate also does not provide a solution if the object you want to detect is an object that has multiple components in it; such as in food or electronic manufactures by monitoring the number of components in a product.
 
